@@ -1,9 +1,12 @@
 # Hi, I'm Miguel Alpañez 👋
 
-**DevOps Consultant | Infrastructure Automation Specialist | Based in Dublin, Ireland 🇮🇪**
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=DevOps+Consultant;AWS+Specialist;Terraform+%26+Ansible+Expert;Available+for+Contracts+%F0%9F%87%AE%F0%9F%87%AA)](https://git.io/typing-svg)
+</div>
+
+**Infrastructure Automation Specialist | Based in Dublin, Ireland 🇮🇪**
 
 I help organizations build reliable, scalable infrastructure through automation and Infrastructure as Code. Specialized in AWS, Ansible, Terraform, and CI/CD pipelines.
-
 ---
 
 ## 🎯 What I Do
@@ -50,7 +53,13 @@ Infrastructure automation and self-hosted services
 - Infrastructure monitoring and observability
 
 ---
+## 🏆 GitHub Trophies
 
+<div align="center">
+![](https://github-profile-trophy.vercel.app/?username=malpanez&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+</div>
+
+---
 ## 🛠️ Tech Stack
 
 ### Infrastructure & Cloud
@@ -81,15 +90,19 @@ Infrastructure automation and self-hosted services
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=malpanez&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malpanez&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
-
+<img src="https://github-readme-stats.vercel.app/api?username=malpanez&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Miguel's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malpanez&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=malpanez&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
+## 📈 Recent Activity
 
+<div align="center">
+[![Miguel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malpanez&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/malpanez)
+</div>
+
+---
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -98,7 +111,13 @@ Infrastructure automation and self-hosted services
 <!-- BLOG-POST-LIST:END -->
 
 ---
+## 🎓 Certifications & Training
 
+- 🔶 **AWS Solutions Architect Associated** - Certified
+- 🔴 **Ansible Automation Platform** - Specialist
+- 🟣 **Terraform Associate** - HashiCorp Certified 002 [In Progress 003]
+
+---
 ## 💡 Skills & Expertise
 
 **Infrastructure as Code:**
@@ -128,7 +147,7 @@ Infrastructure automation and self-hosted services
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/miguel-alpa%C3%B1ez/)) - Open to DevOps consulting opportunities
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-alpañez/) - Open to DevOps consulting opportunities
 - 📝 [Technical Blog](https://homelabforge.dev) - Advanced DevOps tutorials
 - ✉️ [Email](mailto:alpanez.alcalde@gmail.com) - For project inquiries
 - 🌍 **Location:** Dublin, Ireland (Remote work available)
