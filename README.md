@@ -1,32 +1,160 @@
-Hi 👋 My name is Miguel Alpañez
-===============================
+# Hi, I'm Miguel Alpañez 👋
 
-Senior DevOps
--------------
+**DevOps Consultant | Infrastructure Automation Specialist | Based in Dublin, Ireland 🇮🇪**
 
-* 🌍  I'm based in Dublin, Leinster, Ireland
-* ✉️  You can contact me at [alpanez.alcalde@gmail.com](mailto:alpanez.alcalde@gmail.com)
-* 🚀  I'm currently working on [GitHub Actions Learning](http://github.com/malpanez?tab=repositories#:~:text=Sort-,actions%2Dlearning%2Dpathwa,-Public)
-* 🧠  I'm learning GitHub Actions
+I help organizations build reliable, scalable infrastructure through automation and Infrastructure as Code. Specialized in AWS, Ansible, Terraform, and CI/CD pipelines.
 
-### Skills
+---
 
+## 🎯 What I Do
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
+- 🏗️ **Infrastructure as Code** - Terraform, Ansible, CloudFormation
+- ☁️ **Cloud Architecture** - AWS (ElastiCache, EC2, RDS, VPC, Lambda)
+- 🔄 **CI/CD Pipelines** - GitHub Actions, Jenkins, GitLab CI
+- 🐧 **Linux Administration** - 10+ years managing production systems
+- 🚀 **Performance Optimization** - Caching strategies, system tuning
+- 📦 **Container Orchestration** - Docker, Kubernetes, Proxmox
 
+---
 
-### Socials
+## 💼 Currently
 
-<p align="left"> <a href="https://www.github.com/malpanez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://malpanez.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/miguel-alpa%C3%B1ez/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/15011868/malpanez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/malpanez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+- 🔨 Building [HomelabForge.dev](https://homelabforge.dev) - Advanced DevOps tutorials
+- 📚 Deepening expertise in GitHub Actions and cloud-native architectures
+- 🎓 Sharing knowledge through technical blog posts and open-source projects
+- 💡 Available for DevOps consulting contracts in Ireland and remotely
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🌟 Featured Projects
 
-<a href="http://www.github.com/malpanez"><img src="https://github-readme-stats.vercel.app/api?username=malpanez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="malpanez's GitHub stats" /></a>
+### 🚀 [ElastiCache Performance Challenge](https://github.com/malpanez/acg-app-performance-challenge)
+**97% performance improvement** implementing Redis caching layer with Terraform
+- AWS ElastiCache, RDS, VPC architecture
+- Complete Infrastructure as Code
+- Response time: 10s → 0.3s
+- [📝 Read the full case study](https://malpanez.hashnode.dev/a-cloud-guru-challenge-improve-application-performance-using-elasticache-redis)
 
-<a href="http://www.github.com/malpanez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=malpanez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🔧 [Ansible DevContainer for VSCode](https://github.com/malpanez/ansible-devcontainer-vscode)
+Production-ready development environment for Ansible projects
+- Multi-platform support (Linux/macOS/Windows)
+- Pre-configured linting and testing tools
+- GitHub Actions CI/CD integration
+- Used by development teams for consistent environments
 
-<a href="https://github.com/malpanez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malpanez&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🏠 Homelab Projects
+Infrastructure automation and self-hosted services
+- Proxmox virtualization with Terraform
+- Identity management (FreeIPA, DNS)
+- GitOps workflows
+- Infrastructure monitoring and observability
+
+---
+
+## 🛠️ Tech Stack
+
+### Infrastructure & Cloud
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+
+### CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+### Operating Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=malpanez&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malpanez&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Application Performance Optimization with ElastiCache](https://malpanez.hashnode.dev/a-cloud-guru-challenge-improve-application-performance-using-elasticache-redis)
+- More coming soon at [HomelabForge.dev](https://homelabforge.dev)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💡 Skills & Expertise
+
+**Infrastructure as Code:**
+- Terraform (multi-cloud deployments, state management, modules)
+- Ansible (roles, collections, dynamic inventories, AWX)
+- CloudFormation (AWS resource provisioning)
+
+**Cloud Platforms:**
+- AWS (VPC, EC2, RDS, ElastiCache, Lambda, S3, CloudWatch)
+- Azure (VMs, Storage, Networking)
+- Self-hosted infrastructure (Proxmox, VMware)
+
+**DevOps Practices:**
+- CI/CD pipeline design and implementation
+- GitOps workflows
+- Infrastructure monitoring (Prometheus, Grafana)
+- Security best practices (secrets management, least privilege)
+- Performance optimization and troubleshooting
+
+**System Administration:**
+- Linux (RHEL, CentOS, Ubuntu, Debian)
+- Windows Server
+- Networking (DNS, VPN, firewalls)
+- Identity management (FreeIPA, Samba, Active Directory)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/miguel-alpa%C3%B1ez/)) - Open to DevOps consulting opportunities
+- 📝 [Technical Blog](https://homelabforge.dev) - Advanced DevOps tutorials
+- ✉️ [Email](mailto:alpanez.alcalde@gmail.com) - For project inquiries
+- 🌍 **Location:** Dublin, Ireland (Remote work available)
+
+---
+
+## 📈 Availability
+
+**Open to:**
+- ✅ DevOps/Cloud consulting contracts
+- ✅ Infrastructure automation projects
+- ✅ CI/CD pipeline implementations
+- ✅ AWS architecture and optimization
+- ✅ Technical mentoring and training
+
+**Contract Rates:** Competitive day rates for Ireland market  
+**Notice Period:** Available for new projects
+
+---
+
+<div align="center">
+
+### 🚀 Building reliable infrastructure, one commit at a time
+
+*"Automate everything, document everything, test everything"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=malpanez&color=brightgreen&style=flat)
+
+</div>
