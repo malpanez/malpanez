@@ -1,12 +1,17 @@
 # Hi, I'm Miguel Alpañez 👋
 
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=DevOps+Consultant;AWS+Specialist;Terraform+%26+Ansible+Expert;Available+for+Contracts+%F0%9F%87%AE%F0%9F%87%AA)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9900&center=true&vCenter=true&width=435&lines=DevOps+Consultant;AWS+Specialist;Terraform+%26+Ansible+Expert;Available+for+Contracts+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
+</a>
+
 </div>
 
 **Infrastructure Automation Specialist | Based in Dublin, Ireland 🇮🇪**
 
 I help organizations build reliable, scalable infrastructure through automation and Infrastructure as Code. Specialized in AWS, Ansible, Terraform, and CI/CD pipelines.
+
 ---
 
 ## 🎯 What I Do
@@ -32,34 +37,44 @@ I help organizations build reliable, scalable infrastructure through automation 
 ## 🌟 Featured Projects
 
 ### 🚀 [ElastiCache Performance Challenge](https://github.com/malpanez/acg-app-performance-challenge)
+
 **97% performance improvement** implementing Redis caching layer with Terraform
+
 - AWS ElastiCache, RDS, VPC architecture
 - Complete Infrastructure as Code
 - Response time: 10s → 0.3s
 - [📝 Read the full case study](https://malpanez.hashnode.dev/a-cloud-guru-challenge-improve-application-performance-using-elasticache-redis)
 
 ### 🔧 [Ansible DevContainer for VSCode](https://github.com/malpanez/ansible-devcontainer-vscode)
+
 Production-ready development environment for Ansible projects
+
 - Multi-platform support (Linux/macOS/Windows)
 - Pre-configured linting and testing tools
 - GitHub Actions CI/CD integration
 - Used by development teams for consistent environments
 
 ### 🏠 Homelab Projects
+
 Infrastructure automation and self-hosted services
+
 - Proxmox virtualization with Terraform
 - Identity management (FreeIPA, DNS)
 - GitOps workflows
 - Infrastructure monitoring and observability
 
 ---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-![](https://github-profile-trophy.vercel.app/?username=malpanez&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
+<img src="https://github-profile-trophy.vercel.app/?username=malpanez&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+
 </div>
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### Infrastructure & Cloud
@@ -68,6 +83,7 @@ Infrastructure automation and self-hosted services
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 
 ### CI/CD & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
@@ -90,19 +106,29 @@ Infrastructure automation and self-hosted services
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=malpanez&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Miguel's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malpanez&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=malpanez&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Miguel's GitHub Stats" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malpanez&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=malpanez&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
 </div>
 
 ---
+
 ## 📈 Recent Activity
 
 <div align="center">
-[![Miguel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malpanez&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/malpanez)
+
+<a href="https://github.com/malpanez">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malpanez&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Miguel's Activity Graph" />
+</a>
+
 </div>
 
 ---
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -110,14 +136,18 @@ Infrastructure automation and self-hosted services
 - More coming soon at [HomelabForge.dev](https://homelabforge.dev)
 <!-- BLOG-POST-LIST:END -->
 
+➡️ [Read more on my blog](https://homelabforge.dev)
+
 ---
+
 ## 🎓 Certifications & Training
 
-- 🔶 **AWS Solutions Architect Associated** - Certified
+- 🔶 **AWS Solutions Architect Associate** - Certified
 - 🔴 **Ansible Automation Platform** - Specialist
 - 🟣 **Terraform Associate** - HashiCorp Certified 002 [In Progress 003]
 
 ---
+
 ## 💡 Skills & Expertise
 
 **Infrastructure as Code:**
@@ -150,6 +180,7 @@ Infrastructure automation and self-hosted services
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel-alpañez/) - Open to DevOps consulting opportunities
 - 📝 [Technical Blog](https://homelabforge.dev) - Advanced DevOps tutorials
 - ✉️ [Email](mailto:alpanez.alcalde@gmail.com) - For project inquiries
+- 🐙 [GitHub](https://github.com/malpanez) - Open source contributions
 - 🌍 **Location:** Dublin, Ireland (Remote work available)
 
 ---
